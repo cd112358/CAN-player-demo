@@ -1,4 +1,4 @@
-# CAN-play-demo
+# CAN-player-demo
 
 前言：
 1.原生js开发的弹幕播放器，不含任何插件或框架
