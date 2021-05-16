@@ -1,5 +1,5 @@
-# CAN-play-demo
-this is a demo to show the functions of CAN-player
+# CAN-player-demo
+
 前言：
 1.原生js开发的弹幕播放器，不含任何插件或框架
 2.作者目前只是个学习前端大半年的个人练习生嘤嘤嘤，代码写得比较呆，请多包涵，后续功能完善时会进行重构
